@@ -8,6 +8,6 @@
 #### [ToDo]
 
 UI Component[채팅(채원) 회원(윤호) 달력(도훈) 칸반(유진),,,,,,]
-- 팀원별 업무 분담한 대로 기능 구현 (BE API + FE Component)
-- Branch/Merging git 사용
-- jasypt 예제 보기
+1. 팀원별 업무 분담한 대로 기능 구현 (BE API + FE Component)
+2. Branch/Merging git 사용
+3. jasypt 예제 보기
